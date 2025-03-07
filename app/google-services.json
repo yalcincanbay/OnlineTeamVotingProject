@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286966379885",
+    "project_id": "deneme1teamsproject",
+    "storage_bucket": "deneme1teamsproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286966379885:android:c1ff788047be895332d664",
+        "android_client_info": {
+          "package_name": "com.example.deneme1teamsproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOB5aj_fkfCeDuPsxw-dRDRNFWElIX9Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
